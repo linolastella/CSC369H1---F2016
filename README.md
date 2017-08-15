@@ -12,3 +12,5 @@ A2 -> cars.c, traffic.h, traffic.c
 A3 -> clock.c, fifo.c, opt.c, lru.c, pagetable.c, pagetable.h, rand.c, sim.h, sim.c, swap.c
 
 A4 -> ext2_checker.c, ext2_cp.c, ext2_helper.h, ext2_helper.c, ext2_ln.c, ext2_mkdir.c, ext2_restore.c, ext2_rm.c, ext2.h
+
+Instructor: [Bogdan Simion](http://www.cs.toronto.edu/~bogdan/)
